@@ -1,0 +1,2 @@
+pyspark==3.5.0
+pyspark-ai==0.1.18
